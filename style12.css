@@ -1,0 +1,10 @@
+.c1{
+    width:480px;
+    height:100%;
+    background-image: linear-gradient(red,green);
+    /* background-image: linear-gradient(90deg,red,green);
+    background-image: linear-gradient(to right,red,green);
+    background-image: linear-gradient(to right,red,green,yellow,orange,pink,blue,teal,aqua,bwroen,violet); */
+
+
+}

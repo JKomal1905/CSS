@@ -1,0 +1,21 @@
+*{
+    margin:0px;
+    padding:0px;   
+}
+.leftsidebar{
+    background-color: aqua;
+    height:200px;
+    width:30%;
+    float:left;
+}
+.rightsidebar {
+    background-color: rgb(255, 0, 140);
+    height: 300px;
+    width: 70%;
+    float:right;
+}
+.footer{
+    background-color: greenyellow;
+    clear:both;
+    /* height:100px; */
+}

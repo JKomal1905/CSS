@@ -1,0 +1,36 @@
+/* h2{
+    background-color: aqua;
+}
+.parent-box{
+    font-size:30px;
+}
+.child-box{
+    /* font-size:1em; */
+    /* font-size:0.8em;
+}
+.grandchild{
+    font: size 0.5em;
+/* } */ */ */
+/* html{
+    font-size:50px;
+}
+#rp1{
+    font-size:2rem;
+} */
+
+/* *{
+    margin:1px;
+    padding:1px;
+}
+.box{
+    background-color: blue;
+    /* height:100vh; */
+    /* height:1vh; */
+    /* height:50vh;
+    width:20%; */ */
+
+.box1{
+    background: blue;
+    width:100vw;
+}
+

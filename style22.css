@@ -1,0 +1,9 @@
+img{
+    width:200px;
+    height:200px;
+    /* float:right;if we apply float property then image will comeout from the container and other property won't apply on the iamge  */
+}
+p{
+    width:50%;
+    border:20px solid black;
+}

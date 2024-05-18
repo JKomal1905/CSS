@@ -1,0 +1,19 @@
+.c1{
+    height: 500px;
+    width: 600px;
+    /* background-color: blue; */
+    /* background-image:conic-gradient(at 80% 80%,pink 180deg,rgb(42, 23, 112),red);
+    border-radius:  50%;;
+    background-image:repeating-conic-gradient(red,green); */
+    /* background-image:repeating-conic-gradient( rgb(255, 0, 157) 0deg, rgb(47, 0, 255) 90deg, rgb(64, 15, 22) 90deg,black 180deg); */
+    background-image:  repeating-conic-gradient(
+        white 0deg,
+        red 90deg,
+        blue  90deg,
+        blue 180deg
+
+    );
+    background-size: 50px 20px;
+    border-radius:50%;
+    border: 10px solid green;
+}

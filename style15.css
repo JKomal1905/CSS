@@ -1,0 +1,81 @@
+/* .div1{
+    .div2{background-color: rgb(0, 255, 85);
+    width:450px;
+    height:250px;
+    font-size:25px; */
+    /* border-style:dotted ; */
+    /* border-style:solid; */
+    /* border-style:dashed; */
+    /* border-style:double */
+    /* border:10px double red; */
+    /* border-style:outset */
+    /* border-width:15px; */
+    /* border-style:inset; */
+    /* border-style:groove; */
+    /* border-style: ridge;
+    border-width:20px;
+    border-color: blue;
+    border-radius:280px;
+    width: 450px;
+    height: 450px;; */
+/* } */
+/* /* .div3 {
+    background-color: rgb(226, 239, 248);
+    height: 400px;
+    width: 400px;
+    border-top: 50px dashed blue;
+    border-bottom: 50px dashed yellow;
+    border-left: 50px dashed pink;
+    border-right: 50px dashed green;
+    border-radius: 50%;
+} */
+/* .div4 {
+    background-color: rgb(226, 239, 248);
+    height: 600px;
+    width: 600px;
+    border-top: 50px solid blue;
+    border-bottom: 50px solid yellow;
+    border-left: none;
+    border-right: none;
+    border-radius: 50%;
+} */
+/* .div5 {
+    background-color: rgb(226, 239, 248);
+    height: 300px;
+    width: 300px; */
+    /* /* border-top: 50px solid blue; */
+    /* border-top: 50px solid yellow;
+    border-bottom: 50px solid rgb(255, 0, 136); 
+    border-right: 25px solid blue;
+    border-radius: 25%; */
+    /* border-left: 25px solid orange; */
+   
+/* } */
+/* border-radius: 25%; */
+ /* .div6{
+    background-color: rgb(226, 239, 248);
+    height: 300px;
+    width: 300px; */
+    /* border-top: 50px solid rgb(0, 225, 255);
+    border-top: 50px solid yellow;
+    border-bottom: 50px solid rgb(255, 0, 136); 
+    border-right: 25px solid blue; */
+    /* border:10px solid red;
+    border-radius: 25%; 
+ } */
+ /* .div7{
+    background-color: aliceblue;
+    height:200px;
+    width:650px;
+    border:10px solid pink;
+    margin-top:25px;
+    margin:auto;
+ } */
+ .div7 {
+     background-color: aliceblue;
+     height: 200px;
+     width: 650px;
+     border:10px solid green;
+     padding-left:80px;
+     margin:100px;
+ }

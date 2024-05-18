@@ -1,0 +1,8 @@
+.c1 {
+    width: 450px;
+    height: 300px;
+    background-image:radial-gradient(red,black,pink,blue,orange,yellow);
+    border-radius:50%;
+    background-image: repeating-linear-gradient(rgb(0, 6, 128) 10%,rgba(167, 68, 6, 0.3) 20%);
+    
+}

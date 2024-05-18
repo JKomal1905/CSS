@@ -1,0 +1,21 @@
+*{
+    margin: 2px;
+    padding: 2px;
+}
+
+.leftbox{
+    background-color: aqua;
+    color:white;
+    width:40%;
+    float:left;
+    
+}
+.rightbox{
+    background-color:deeppink;
+    color:white;
+    width:50%;
+    float:right;
+    /* float:left; */
+    clear:both;
+
+}

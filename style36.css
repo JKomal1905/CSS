@@ -1,0 +1,19 @@
+div{
+    margin-left:100px;
+background-color: aqua;
+    height:150px;
+    width:150px;
+    /* transform:translateX(100px); */
+
+}
+ div:hover{ 
+    /* transform:translateX(100px); */
+    /* transform:translateY(-100px); */
+    /* transform:translate(100px,100px); */
+    /* transform: scaleX(2); */
+    /* transform:scaleY(2); */
+    /* /* transform:scale(1.52);  */
+    /* transform:skew(45deg); */
+    /* transform:rotate(30deg); */
+    matrix(scaleX,scaleY,skewX,skewY,translateX,translateY);
+}

@@ -1,0 +1,11 @@
+.c1{
+    background-color: rgb(43, 226, 95);
+    height: 400px;
+    width: 500px;
+    background-image: url(/images/1.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: top center;
+    background-position:10% 50%;
+    background-position:25px 50px;
+}

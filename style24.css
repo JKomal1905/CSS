@@ -1,0 +1,23 @@
+div{
+    height: 200px;
+    width: 200px;
+    /* float:left;  */
+    float:right;
+}
+
+.id1{
+    background-color: red;
+/* float:left; */
+}
+.id2{
+    background-color: aqua;
+    /* float:left; */
+}
+.id3{
+    background-color: blue;
+    /* float:left; */
+     /* float:right; */ 
+     /* clear:left;  */
+     clear:left;
+     float:left;
+}

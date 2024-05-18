@@ -1,0 +1,12 @@
+.box{
+    background-color: rgb(218, 205, 255);
+    height:250px;
+    width:250px;
+    /* overflow:hidden; */
+    /* overflow:auto; */
+    /* /* overflow:scroll; */
+    /* overflow-x: auto;
+    overflow-y: hidden; */
+    overflow-x:scroll;
+        overflow-y: scroll;
+}

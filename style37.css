@@ -1,0 +1,28 @@
+/* div{
+    background-color: aqua;
+    height:100px;
+    width:100px;
+    margin:auto;
+    transition-property: height width;
+    transition-duration: 3s;
+    transition-delay:5s;
+}
+.box:hover{
+    height:240px;
+    width:240px;
+    background-image: linear-gradient(45deg,deeppink,blue);
+    border-radius:50%;
+} */
+.box{
+    height:80px;
+    width:80px;
+    background-color: teal;
+    transition-duration: 3s;
+transition-property: width;
+/* transition-timing-function: ease-in; */
+/* transition-timing-function: ease-in-out; */
+transition-timing-function: liner;
+}
+.box:hover{
+width:450px;
+}

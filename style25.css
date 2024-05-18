@@ -1,0 +1,29 @@
+div{
+    height: 100px;
+    width:100px;
+    font-size:30px;
+    text-align:center ;
+    color: white;
+}
+.box1{
+    background-color: aquamarine;
+    visibility: visible;
+}
+.box2{
+    background-color: blue;
+    /* visibility:hidden; */
+    visibility:display none;
+
+}
+.box3 {
+    background-color: rgb(0, 255, 76);
+
+}
+.box4{
+    background-color: rgb(183, 255, 0);
+
+}
+.box5 {
+    background-color: rgb(255, 98, 0);
+
+}

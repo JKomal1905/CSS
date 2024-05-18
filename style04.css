@@ -1,0 +1,32 @@
+
+/* #id1{
+color: blue;
+} */
+/* .c1{
+    color: green;
+} */
+/* input {
+    border: 5px solid red;
+} */
+/* input[type="text"]{
+    border: 3px solid  blue;
+} */
+
+/* grouping selectors */
+/* .c1{ */
+    /* background-color: green;
+} */
+
+/* universal selector */
+/* p,div{
+    border: 5px solid rgb(255, 0, 179);
+}
+body{
+    border: 5px solid blue;
+}
+html{
+    border: 5px solid rgb(255, 89, 0);
+} */
+*{
+    border: 5px solid rgb(255, 0, 179);
+}
